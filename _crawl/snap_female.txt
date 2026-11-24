@@ -1,0 +1,7 @@
+{
+  "observation_id": "5d25f12a-b2e4-4c56-9389-5265bcd7310c",
+  "text": "@vom 1\n@view 1064x676\n@layers 1 focus=L1\nL1 page\n  RootWebArea",
+  "ref_count": 0,
+  "tab_id": 68705196,
+  "truncated": false
+}

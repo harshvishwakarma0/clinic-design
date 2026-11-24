@@ -1,0 +1,11 @@
+{
+  "code": "permission_denied",
+  "message": "Could not establish connection. Receiving end does not exist.",
+  "hint": "Use cooperate wait, then cooperate sync. Keep the assigned goal; reconcile the live result before issuing a new action. Never replay an uncertain submission.",
+  "exit_code": 1,
+  "data": {
+    "effect_state": "none",
+    "reason": "cooperation_sync_required",
+    "recovery": "Use cooperate wait, then cooperate sync. Keep the assigned goal; reconcile the live result before issuing a new action. Never replay an uncertain submission."
+  }
+}

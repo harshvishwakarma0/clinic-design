@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+<head><meta charset="utf-8"><style>
+html,body{margin:0;padding:0;width:1280px;height:900px;overflow:hidden;background:#fff}
+iframe{border:0;width:1280px;height:20000px;position:absolute;left:0;top:0}
+</style></head>
+<body>
+<iframe id="f"></iframe>
+<script>
+const q = new URLSearchParams(location.search);
+const target = q.get('t') || '/';
+const off = parseInt(q.get('y') || '0', 10);
+const f = document.getElementById('f');
+f.style.top = (-off) + 'px';
+f.src = target;
+f.onload = () => {
+  const d = f.contentDocument;
+  try {
+    d.querySelectorAll('[data-aos]').forEach(e => e.classList.add('aos-animate'));
+    d.querySelectorAll('video').forEach(v => { v.pause(); v.removeAttribute('autoplay'); });
+    d.documentElement.classList.remove('lenis','lenis-smooth','lenis-scrolling');
+    d.querySelectorAll('img[loading="lazy"]').forEach(i => i.loading = 'eager');
+  } catch (e) {}
+  document.title = 'ready';
+};
+</script>
+</body>
+</html>

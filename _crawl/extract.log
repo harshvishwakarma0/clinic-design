@@ -1,0 +1,9 @@
+assets found: 281 css: 12
+FAIL https://eyesurgeons.co.nz/wp-json/
+FAIL https://eyesurgeons.co.nz/wp-content/themes/eye-surgeons/assets/client/fonts/Gilroy-Medium.woff
+FAIL https://eyesurgeons.co.nz/wp-content/themes/eye-surgeons/assets/client/fonts/Gilroy-Medium.otf
+FAIL https://eyesurgeons.co.nz/wp-content/themes/eye-surgeons/assets/client/fonts/Gilroy-Medium.ttf
+FAIL https://eyesurgeons.co.nz/wp-content/themes/eye-surgeons/assets/client/fonts/Gilroy-SemiBold.eot
+FAIL https://eyesurgeons.co.nz/wp-content/themes/eye-surgeons/assets/client/fonts/Gilroy-SemiBold.eot?#iefix
+FAIL https://eyesurgeons.co.nz/wp-content/themes/eye-surgeons/assets/client/fonts/Gilroy-SemiBold.woff2
+total assets: 309
