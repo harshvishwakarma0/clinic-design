@@ -9,7 +9,7 @@ A modern, high-performance web platform and digital design system engineered for
 
 ---
 
-## 🌟 Key Highlights
+## Key Highlights
 
 - **Complete Multi-Page Clinical Platform**: 15+ specialized routes covering treatments, surgeon profiles, clinic locations, transparent pricing, and educational patient resources.
 - **Tailored Design System**: Custom typography architecture utilizing *Clash Display* and *Gilroy*, a refined clinical emerald-and-neutral palette, and fluid viewport scaling (`vw`-driven clamp dynamics).
@@ -19,7 +19,7 @@ A modern, high-performance web platform and digital design system engineered for
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```tree
 clinic-design/
@@ -61,7 +61,7 @@ clinic-design/
 
 ---
 
-## 🎨 Design System & Visual Identity
+## Design System & Visual Identity
 
 The interface balances clinical rigor with warm, human-centric aesthetics:
 
@@ -78,7 +78,7 @@ The interface balances clinical rigor with warm, human-centric aesthetics:
 
 ---
 
-## 🩺 Clinical Treatment Coverage
+## Clinical Treatment Coverage
 
 Detailed, patient-first landing pages for vision correction and medical procedures:
 
@@ -93,7 +93,7 @@ Detailed, patient-first landing pages for vision correction and medical procedur
 
 ---
 
-## ⚡ Performance & Optimization
+## Performance & Optimization
 
 Engineered for 95+ Core Web Vitals across low-power devices and variable networks:
 
@@ -110,7 +110,7 @@ Engineered for 95+ Core Web Vitals across low-power devices and variable network
 
 ---
 
-## 📱 Multi-Device Responsive Suite
+## Multi-Device Responsive Suite
 
 Every viewport tier is thoroughly verified via automated headless captures:
 
@@ -124,7 +124,7 @@ Every viewport tier is thoroughly verified via automated headless captures:
 
 ---
 
-## 🚀 Local Development & Preview
+## Local Development & Preview
 
 ### Option 1: Built-in Gzip Preview Server
 ```bash
@@ -141,7 +141,7 @@ python -m http.server 3000 --directory site
 
 ---
 
-## 🚢 Deployment
+## Deployment
 
 The repository includes native Vercel configuration:
 
@@ -155,7 +155,7 @@ npx vercel --prod site
 
 ---
 
-## 📄 License & Attribution
+## License & Attribution
 
 Designed and developed for clinical consultation and healthcare demonstration.  
 All medical content, layout designs, and optimization tooling are maintained under the MIT License.
