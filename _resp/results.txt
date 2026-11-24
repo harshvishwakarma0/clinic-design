@@ -1,0 +1,70 @@
+w=360 p=/ retry6:error: this action needs an explicit current observation
+hin
+w=360 p=/locations/ retry6:error: this action needs an explicit current observation
+hin
+w=360 p=/pricing/ {"vw":375,"scrollW":375,"n":0,"x":[]}
+w=360 p=/contact-us/ retry6:error: this action needs an explicit current observation
+hin
+w=360 p=/treatments/ {"vw":375,"scrollW":375,"n":0,"x":[]}
+w=360 p=/our-team/ retry6:error: this action needs an explicit current observation
+hin
+w=360 p=/blog/ {"vw":375,"scrollW":375,"n":0,"x":[]}
+w=360 p=/patient-information/ retry6:error: this action needs an explicit current observation
+hin
+w=360 p=/surgeons/ {"vw":375,"scrollW":375,"n":0,"x":[]}
+w=360 p=/optometrists/ retry6:error: this action needs an explicit current observation
+hin
+w=390 p=/ {"vw":375,"scrollW":375,"n":0,"x":[]}
+w=390 p=/locations/ retry6:error: this action needs an explicit current observation
+hin
+w=390 p=/pricing/ {"vw":375,"scrollW":375,"n":0,"x":[]}
+w=390 p=/contact-us/ retry6:error: this action needs an explicit current observation
+hin
+w=390 p=/treatments/ {"vw":375,"scrollW":375,"n":0,"x":[]}
+w=390 p=/our-team/ retry6:error: this action needs an explicit current observation
+hin
+w=390 p=/blog/ {"vw":375,"scrollW":375,"n":0,"x":[]}
+w=390 p=/patient-information/ {"vw":375,"scrollW":375,"n":0,"x":[]}
+w=390 p=/surgeons/ {"vw":375,"scrollW":375,"n":0,"x":[]}
+w=390 p=/optometrists/ {"vw":375,"scrollW":375,"n":0,"x":[]}
+w=768 p=/ {"vw":375,"scrollW":375,"n":0,"x":[]}
+w=768 p=/locations/ retry6:error: this action needs an explicit current observation
+hin
+w=768 p=/pricing/ {"vw":375,"scrollW":375,"n":0,"x":[]}
+w=768 p=/contact-us/ {"vw":375,"scrollW":375,"n":0,"x":[]}
+w=768 p=/treatments/ {"vw":375,"scrollW":375,"n":0,"x":[]}
+w=768 p=/our-team/ {"vw":375,"scrollW":375,"n":0,"x":[]}
+w=768 p=/blog/ {"vw":375,"scrollW":375,"n":0,"x":[]}
+w=768 p=/patient-information/ {"vw":375,"scrollW":375,"n":0,"x":[]}
+w=768 p=/surgeons/ {"vw":375,"scrollW":375,"n":0,"x":[]}
+w=768 p=/optometrists/ {"vw":375,"scrollW":375,"n":0,"x":[]}
+w=1024 p=/ {"vw":375,"scrollW":375,"n":0,"x":[]}
+w=1024 p=/locations/ {"vw":375,"scrollW":375,"n":0,"x":[]}
+w=1024 p=/pricing/ {"vw":375,"scrollW":375,"n":0,"x":[]}
+w=1024 p=/contact-us/ {"vw":375,"scrollW":375,"n":0,"x":[]}
+w=1024 p=/treatments/ {"vw":375,"scrollW":375,"n":0,"x":[]}
+w=1024 p=/our-team/ {"vw":375,"scrollW":375,"n":0,"x":[]}
+w=1024 p=/blog/ {"vw":375,"scrollW":375,"n":0,"x":[]}
+w=1024 p=/patient-information/ {"vw":375,"scrollW":375,"n":0,"x":[]}
+w=1024 p=/surgeons/ {"vw":375,"scrollW":375,"n":0,"x":[]}
+w=1024 p=/optometrists/ {"vw":375,"scrollW":375,"n":0,"x":[]}
+w=1440 p=/ {"vw":375,"scrollW":375,"n":0,"x":[]}
+w=1440 p=/locations/ {"vw":375,"scrollW":375,"n":0,"x":[]}
+w=1440 p=/pricing/ {"vw":375,"scrollW":375,"n":0,"x":[]}
+w=1440 p=/contact-us/ {"vw":375,"scrollW":375,"n":0,"x":[]}
+w=1440 p=/treatments/ {"vw":375,"scrollW":375,"n":0,"x":[]}
+w=1440 p=/our-team/ {"vw":375,"scrollW":375,"n":0,"x":[]}
+w=1440 p=/blog/ {"vw":375,"scrollW":375,"n":0,"x":[]}
+w=1440 p=/patient-information/ {"vw":375,"scrollW":375,"n":0,"x":[]}
+w=1440 p=/surgeons/ {"vw":375,"scrollW":375,"n":0,"x":[]}
+w=1440 p=/optometrists/ {"vw":375,"scrollW":375,"n":0,"x":[]}
+w=1920 p=/ {"vw":375,"scrollW":375,"n":0,"x":[]}
+w=1920 p=/locations/ {"vw":375,"scrollW":375,"n":0,"x":[]}
+w=1920 p=/pricing/ {"vw":375,"scrollW":375,"n":0,"x":[]}
+w=1920 p=/contact-us/ {"vw":375,"scrollW":375,"n":0,"x":[]}
+w=1920 p=/treatments/ {"vw":375,"scrollW":375,"n":0,"x":[]}
+w=1920 p=/our-team/ {"vw":375,"scrollW":375,"n":0,"x":[]}
+w=1920 p=/blog/ {"vw":375,"scrollW":375,"n":0,"x":[]}
+w=1920 p=/patient-information/ {"vw":375,"scrollW":375,"n":0,"x":[]}
+w=1920 p=/surgeons/ {"vw":375,"scrollW":375,"n":0,"x":[]}
+w=1920 p=/optometrists/ {"vw":375,"scrollW":375,"n":0,"x":[]}
