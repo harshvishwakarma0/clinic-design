@@ -1,9 +1,12 @@
 # Eye Surgeons India — Ophthalmology & Vision Care Web Platform
 
-[![Vercel Deployment](https://img.shields.io/badge/Deployment-Vercel%20Edge-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
+[![Live Preview](https://img.shields.io/badge/Live%20Demo-clinicnow.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://clinicnow.vercel.app)
 [![Performance](https://img.shields.io/badge/Lighthouse-98%2F100-success?style=for-the-badge&logo=lighthouse&logoColor=white)](#performance--optimization)
 [![Responsive](https://img.shields.io/badge/Responsive-360px%20--%201920px-blue?style=for-the-badge)](#multi-device-responsive-suite)
 [![Design](https://img.shields.io/badge/Design%20System-Clash%20%2B%20Gilroy-teal?style=for-the-badge)](#design-system--visual-identity)
+
+> **Live Deployment**: [https://clinicnow.vercel.app](https://clinicnow.vercel.app)  
+> **Production Mirror**: [https://eye-surgeons-india.vercel.app](https://eye-surgeons-india.vercel.app)
 
 A modern, high-performance web platform and digital design system engineered for **Eye Surgeons India** — specialist ophthalmologists and vision correction clinics. Built with a focus on clinical authority, patient trust, fluid responsive ergonomics, and near-instant load speeds across all network conditions.
 
@@ -142,6 +145,9 @@ python -m http.server 3000 --directory site
 ---
 
 ## Deployment
+
+- **Live Production URL**: [https://clinicnow.vercel.app](https://clinicnow.vercel.app)
+- **Alternate Production Alias**: [https://eye-surgeons-india.vercel.app](https://eye-surgeons-india.vercel.app)
 
 The repository includes native Vercel configuration:
 
